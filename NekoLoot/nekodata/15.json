@@ -1,0 +1,23 @@
+{
+  "name": "Chamer Neko",
+  "description": "He loves to game and he will beat you at any. With a glass of milk on the side, he will conquer any game.",
+  "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/15.png",
+  "attributes": [
+  {
+    "trait_type": "Charm",
+    "value": 40
+  },
+  {
+    "trait_type": "Agility",
+    "value": 30
+  },
+  {
+    "trait_type": "Intelligence",
+    "value": 90
+  },
+  {
+    "trait_type": "Strength",
+    "value": 35
+  }
+  ]
+}

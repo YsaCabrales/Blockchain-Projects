@@ -1,0 +1,15 @@
+{
+    "name": "PNK Locker",
+    "description": "What could be inside these pink lockers? Books? Valuables? Secrets? Let's find out.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/8.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 75
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cute"
+      }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Cholor Neko",
+    "description": "Her art may be messy but they are wonderful. She will paint you like a french girl.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/13.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 70
+    },
+    {
+      "trait_type": "Agility",
+      "value": 10
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 65
+    },
+    {
+      "trait_type": "Strength",
+      "value": 25
+    }
+    ]
+}

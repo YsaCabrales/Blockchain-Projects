@@ -1,0 +1,15 @@
+{
+    "name": "PNK Dream",
+    "description": "Enter the portal into the PNK dreamscape. Filled with magic and pollen, feel yourself drift into this mystical fantasy",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/1.jpg",
+    "attributes": [
+    {
+      "trait_type": "Pinkness",
+      "value": 50
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Mystical"
+    }
+    ]
+}

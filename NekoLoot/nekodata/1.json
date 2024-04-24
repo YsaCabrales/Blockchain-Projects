@@ -1,0 +1,23 @@
+{
+    "name": "Chicha Neko",
+    "description": "He's affectionate and handsome. He will bring you surprise gifts, from fish to rats! So watch out!",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/1.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 70
+    },
+    {
+      "trait_type": "Agility",
+      "value": 90
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 80
+    },
+    {
+      "trait_type": "Strength",
+      "value": 70
+    }
+    ]
+}

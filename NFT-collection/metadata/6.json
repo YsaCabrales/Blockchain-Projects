@@ -1,0 +1,15 @@
+{
+    "name": "PNK Sky",
+    "description": "Float above the pink clouds. Better than cloud nine.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/6.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 80
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Mystical"
+      }
+    ]
+}

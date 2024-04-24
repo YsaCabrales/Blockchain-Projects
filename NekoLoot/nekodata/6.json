@@ -1,0 +1,23 @@
+{
+    "name": "Chaching Neko",
+    "description": "He is all about that grind! Selling catnip on the side and getting that bag on the daily.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/6.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 85
+    },
+    {
+      "trait_type": "Agility",
+      "value": 25
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 80
+    },
+    {
+      "trait_type": "Strength",
+      "value": 40
+    }
+    ]
+}

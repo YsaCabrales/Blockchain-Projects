@@ -1,0 +1,23 @@
+{
+    "name": "Chewy Neko",
+    "description": "She's energetic and playful. She loves hunting and will bring your life some energy.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/3.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 40
+    },
+    {
+      "trait_type": "Agility",
+      "value": 90
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 25
+    },
+    {
+      "trait_type": "Strength",
+      "value": 40
+    }
+    ]
+}

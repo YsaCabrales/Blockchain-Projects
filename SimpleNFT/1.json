@@ -1,0 +1,11 @@
+{
+    "name": "FTW",
+    "description": "Experience victory with your cute Axie companions!",
+    "image": "ipfs://QmTSzRkSh9vDQSkD6VogffyWaYdWxqA5ewYoYDSTVhF4De",
+    "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "50"
+    }
+    ]
+}

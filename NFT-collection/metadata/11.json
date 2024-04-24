@@ -1,0 +1,15 @@
+{
+    "name": "PNK Pop",
+    "description": "Women are found in art. Art is found in women.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/11.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 50
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Pop"
+      }
+    ]
+}

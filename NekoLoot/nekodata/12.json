@@ -1,0 +1,23 @@
+{
+    "name": "Chux Neko",
+    "description": "Don't let his gloomy aura mislead you. He can be sweet and loving with the right amount of care. He's just a very sensitive.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/12.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 75
+    },
+    {
+      "trait_type": "Agility",
+      "value": 20
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 75
+    },
+    {
+      "trait_type": "Strength",
+      "value": 20
+    }
+    ]
+}

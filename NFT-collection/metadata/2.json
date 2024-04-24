@@ -1,0 +1,15 @@
+{
+    "name": "PNK Kitty",
+    "description": "Have some afternoon coffee with a kitty cat across you. Cozy, Coffee, Cute.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/2.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 30
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cute"
+      }
+    ]
+}

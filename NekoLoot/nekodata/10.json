@@ -1,0 +1,23 @@
+{
+    "name": "Chada Neko",
+    "description": "He's the luckiest kitty out there! He will bring you great luck and will fight the bad spirits away.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/10.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 65
+    },
+    {
+      "trait_type": "Agility",
+      "value": 60
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 45
+    },
+    {
+      "trait_type": "Strength",
+      "value": 70
+    }
+    ]
+}

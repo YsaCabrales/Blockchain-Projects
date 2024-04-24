@@ -1,0 +1,15 @@
+{
+    "name": "PNK Doll",
+    "description": "This doll can't handle all these stickers. Looks good on it though.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/9.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 30
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cute"
+      }
+    ]
+}

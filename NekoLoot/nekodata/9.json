@@ -1,0 +1,23 @@
+{
+    "name": "Chilly Neko",
+    "description": "She's the most chill cat you'll ever meet. Carry her, hug her, hang with her, she's chiiiill...",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/9.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 70
+    },
+    {
+      "trait_type": "Agility",
+      "value": 40
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 75
+    },
+    {
+      "trait_type": "Strength",
+      "value": 25
+    }
+    ]
+}

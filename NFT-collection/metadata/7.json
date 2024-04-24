@@ -1,0 +1,15 @@
+{
+    "name": "PNK Man",
+    "description": "Pink looks good on everyone and everything.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/7.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 60
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Lovely"
+      }
+    ]
+}

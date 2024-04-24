@@ -1,0 +1,23 @@
+{
+    "name": "Charmi Neko",
+    "description": "Her love language is 'all of the above.' Charming and pretty, you won't regret falling for her charms.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/11.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 100
+    },
+    {
+      "trait_type": "Agility",
+      "value": 20
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 50
+    },
+    {
+      "trait_type": "Strength",
+      "value": 10
+    }
+    ]
+}

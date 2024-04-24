@@ -1,0 +1,15 @@
+{
+    "name": "PNK Dreamhouse",
+    "description": "Feel like a barbie, Live like a barbie.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/12.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 30
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Lovely"
+      }
+    ]
+}

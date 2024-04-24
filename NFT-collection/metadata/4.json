@@ -1,0 +1,15 @@
+{
+    "name": "PNK Girl",
+    "description": "Surround yourself in pink",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/4.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 95
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cool"
+      }
+    ]
+}

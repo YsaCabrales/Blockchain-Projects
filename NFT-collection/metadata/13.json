@@ -1,0 +1,15 @@
+{
+    "name": "PNK Car",
+    "description": "Who wouldn't want to drive in such a sick ride?",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/13.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 75
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cool"
+      }
+    ]
+}

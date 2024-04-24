@@ -1,0 +1,23 @@
+{
+    "name": "Chrr Neko",
+    "description": "Some say he has issues, some say he's dangerous. I say he just need a bit of love to calm down.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/14.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 15
+    },
+    {
+      "trait_type": "Agility",
+      "value": 80
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 30
+    },
+    {
+      "trait_type": "Strength",
+      "value": 85
+    }
+    ]
+}

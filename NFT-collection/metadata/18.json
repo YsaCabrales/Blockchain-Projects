@@ -1,0 +1,15 @@
+{
+    "name": "PNK Neon",
+    "description": "Ready to play?",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/18.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 55
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Cool"
+      }
+    ]
+}

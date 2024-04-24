@@ -1,0 +1,23 @@
+{
+    "name": "Chollen Neko",
+    "description": "He loves flowers and the smell of pollen. Give him one and he'll be happy the rest of the day. Just don't give him lilies!",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/16.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 85
+    },
+    {
+      "trait_type": "Agility",
+      "value": 20
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 55
+    },
+    {
+      "trait_type": "Strength",
+      "value": 30
+    }
+    ]
+}

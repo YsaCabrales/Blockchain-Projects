@@ -1,0 +1,15 @@
+{
+    "name": "PNK Decay",
+    "description": "There is beauty in destruction and decay.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/14.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 30
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Mystical"
+      }
+    ]
+}

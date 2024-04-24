@@ -1,0 +1,23 @@
+{
+    "name": "Chrissy Neko",
+    "description": "The angel of cats. She will bring you a kitty when you need one.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/4.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 75
+    },
+    {
+      "trait_type": "Agility",
+      "value": 20
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 75
+    },
+    {
+      "trait_type": "Strength",
+      "value": 20
+    }
+    ]
+}

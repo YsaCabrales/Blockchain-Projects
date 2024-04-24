@@ -1,0 +1,23 @@
+{
+    "name": "Cheemo Neko",
+    "description": "She's dark and dangerous, but her music taste rocks! Be careful around her and her bomb.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/17.png",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 10
+    },
+    {
+      "trait_type": "Agility",
+      "value": 45
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 60
+    },
+    {
+      "trait_type": "Strength",
+      "value": 55
+    }
+    ]
+}

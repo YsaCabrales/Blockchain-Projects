@@ -1,0 +1,23 @@
+{
+    "name": "Chunky Neko",
+    "description": "He's soft, brown, and he moves chunkily. He is the c h o n k you're looking for.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/2.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 50
+    },
+    {
+      "trait_type": "Agility",
+      "value": 30
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 40
+    },
+    {
+      "trait_type": "Strength",
+      "value": 80
+    }
+    ]
+}

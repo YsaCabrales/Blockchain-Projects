@@ -1,0 +1,15 @@
+{
+    "name": "PNK Mansion",
+    "description": "The mansion towering above you, waiting for you to come in and explore its rooms and halls.",
+    "image": "ipfs://QmUgTZYdEVr79CZPjMyRAsmA2qqyrrp36jA1Rjs5zsZ6Rz/5.jpg",
+    "attributes": [
+      {
+        "trait_type": "Pinkness",
+        "value": 70
+      },
+      {
+        "trait_type": "Theme",
+        "value": "Mystical"
+      }
+    ]
+}

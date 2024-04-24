@@ -1,0 +1,23 @@
+{
+    "name": "Chimmer Neko",
+    "description": "Watch her shine like the sun and glitter like gold. She can blind you if you stare for too long.",
+    "image": "ipfs://QmbajhoLGMjqNRDRKvSy5yoobPwkR3RjKhoCZW3zhCAnLy/8.jpg",
+    "attributes": [
+    {
+      "trait_type": "Charm",
+      "value": 90
+    },
+    {
+      "trait_type": "Agility",
+      "value": 20
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 55
+    },
+    {
+      "trait_type": "Strength",
+      "value": 35
+    }
+    ]
+}
